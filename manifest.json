@@ -1,0 +1,324 @@
+{
+  "version": 1,
+  "images": [
+    {
+      "id": 2,
+      "name": "怀旧",
+      "path": "backgrounds/background_old.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/background_old.png",
+      "size": 593874
+    },
+    {
+      "id": 15,
+      "name": "重油",
+      "path": "backgrounds/重油.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/重油.png",
+      "size": 781584
+    },
+    {
+      "id": 16,
+      "name": "歼灭",
+      "path": "backgrounds/歼灭.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/歼灭.png",
+      "size": 811889
+    },
+    {
+      "id": 17,
+      "name": "交火",
+      "path": "backgrounds/交火.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/交火.png",
+      "size": 803724
+    },
+    {
+      "id": 18,
+      "name": "战术拼图",
+      "path": "backgrounds/战术拼图.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/战术拼图.png",
+      "size": 828626
+    },
+    {
+      "id": 19,
+      "name": "老贝榨",
+      "path": "backgrounds/老贝榨.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/老贝榨.png",
+      "size": 997403
+    },
+    {
+      "id": 20,
+      "name": "币币机",
+      "path": "backgrounds/币币机.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/币币机.png",
+      "size": 807098
+    },
+    {
+      "id": 21,
+      "name": "快反小队",
+      "path": "backgrounds/快反小队.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/快反小队.png",
+      "size": 810370
+    },
+    {
+      "id": 22,
+      "name": "军港风暴",
+      "path": "backgrounds/军港风暴.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/军港风暴.png",
+      "size": 893046
+    },
+    {
+      "id": 23,
+      "name": "殿堂",
+      "path": "backgrounds/收藏.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/收藏.png",
+      "size": 2212333
+    },
+    {
+      "id": 24,
+      "name": "黑金授信",
+      "path": "backgrounds/上暗.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/上暗.png",
+      "size": 970053
+    },
+    {
+      "id": 25,
+      "name": "都市戍卫",
+      "path": "backgrounds/都市戍卫.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/都市戍卫.png",
+      "size": 834734
+    },
+    {
+      "id": 26,
+      "name": "硬核行动",
+      "path": "backgrounds/硬核行动.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/硬核行动.png",
+      "size": 799843
+    },
+    {
+      "id": 27,
+      "name": "刀锋行动",
+      "path": "backgrounds/刀锋行动.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/刀锋行动.png",
+      "size": 921340
+    },
+    {
+      "id": 28,
+      "name": "金铭牌",
+      "path": "backgrounds/金铭牌.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/金铭牌.png",
+      "size": 653432
+    },
+    {
+      "id": 29,
+      "name": "机场突袭",
+      "path": "backgrounds/机场突袭.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/机场突袭.png",
+      "size": 777067
+    },
+    {
+      "id": 30,
+      "name": "前线战场",
+      "path": "backgrounds/前线战场.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/前线战场.png",
+      "size": 878537
+    },
+    {
+      "id": 31,
+      "name": "弱光行动",
+      "path": "backgrounds/弱光行动.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/弱光行动.png",
+      "size": 742458
+    },
+    {
+      "id": 32,
+      "name": "异彩",
+      "path": "backgrounds/异彩.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/异彩.png",
+      "size": 885594
+    },
+    {
+      "id": 33,
+      "name": "闪电与冷钢",
+      "path": "backgrounds/闪电与冷钢.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/闪电与冷钢.png",
+      "size": 815494
+    },
+    {
+      "id": 34,
+      "name": "灼目之星",
+      "path": "backgrounds/灼目之星.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/灼目之星.png",
+      "size": 958500
+    },
+    {
+      "id": 35,
+      "name": "因果律理",
+      "path": "backgrounds/因果律理.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/因果律理.png",
+      "size": 738136
+    },
+    {
+      "id": 36,
+      "name": "OTs-14",
+      "path": "backgrounds/OTs-14.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/OTs-14.png",
+      "size": 733013
+    },
+    {
+      "id": 37,
+      "name": "战火重燃",
+      "path": "backgrounds/战火重燃.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/战火重燃.png",
+      "size": 2739628
+    },
+    {
+      "id": 38,
+      "name": "暖炉堡",
+      "path": "backgrounds/暖炉堡.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/暖炉堡.png",
+      "size": 810904
+    },
+    {
+      "id": 39,
+      "name": "沙暴侵袭",
+      "path": "backgrounds/沙暴侵袭.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/沙暴侵袭.png",
+      "size": 779919
+    }
+  ],
+  "videos": [
+    {
+      "id": 3,
+      "name": "突围",
+      "path": "backgrounds/StayMainUiFrame.mp4",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/StayMainUiFrame.mp4",
+      "size": 3400431
+    },
+    {
+      "id": 4,
+      "name": "安全通道",
+      "path": "backgrounds/StayMainUiFrame_tunnel_Yellow.mp4",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/StayMainUiFrame_tunnel_Yellow.mp4",
+      "size": 722828
+    },
+    {
+      "id": 5,
+      "name": "紧急状况",
+      "path": "backgrounds/StayMainUiFrame_tunnel_Red.mp4",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/StayMainUiFrame_tunnel_Red.mp4",
+      "size": 3186335
+    },
+    {
+      "id": 6,
+      "name": "沙海黄昏",
+      "path": "backgrounds/StayMainUiFrame_desert.mp4",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/StayMainUiFrame_desert.mp4",
+      "size": 4398996
+    },
+    {
+      "id": 7,
+      "name": "群鸦巢穴",
+      "path": "backgrounds/StayMainUiFrame_crow.mp4",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/StayMainUiFrame_crow.mp4",
+      "size": 5497019
+    },
+    {
+      "id": 8,
+      "name": "苍穹回响",
+      "path": "backgrounds/StayMainUiFrame_radar.mp4",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/StayMainUiFrame_radar.mp4",
+      "size": 3678240
+    },
+    {
+      "id": 9,
+      "name": "礼拜堂",
+      "path": "backgrounds/StayMainUiFrame_Church.mp4",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/StayMainUiFrame_Church.mp4",
+      "size": 5616975
+    },
+    {
+      "id": 10,
+      "name": "现世因诡雾解离",
+      "path": "backgrounds/StayMainUiFrame_dock.mp4",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/StayMainUiFrame_dock.mp4",
+      "size": 4618189
+    },
+    {
+      "id": 11,
+      "name": "海风将不再细语",
+      "path": "backgrounds/StayMainUiFrame_beach.mp4",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/StayMainUiFrame_beach.mp4",
+      "size": 4272216
+    },
+    {
+      "id": 12,
+      "name": "街巷已不再熟悉",
+      "path": "backgrounds/StayMainUiFrame_Harbor.mp4",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/StayMainUiFrame_Harbor.mp4",
+      "size": 4205958
+    },
+    {
+      "id": 13,
+      "name": "浊潮自此处涌起",
+      "path": "backgrounds/StayMainUiFrame_Warcity.mp4",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/StayMainUiFrame_Warcity.mp4",
+      "size": 4870446
+    },
+    {
+      "id": 14,
+      "name": "十二星座",
+      "path": "backgrounds/GalleryMainPanelBG_Loop.mp4",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/GalleryMainPanelBG_Loop.mp4",
+      "size": 4511854
+    },
+    {
+      "id": 40,
+      "name": "南天门计划－孤鹰",
+      "path": "backgrounds/孤鹰.mp4",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/孤鹰.mp4",
+      "size": 5148252
+    },
+    {
+      "id": 41,
+      "name": "终结者-T800",
+      "path": "backgrounds/终结者.mp4",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/终结者.mp4",
+      "size": 5935172
+    },
+    {
+      "id": 42,
+      "name": "少女前线·追放",
+      "path": "backgrounds/少女前线.mp4",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/少女前线.mp4",
+      "size": 1612987
+    },
+    {
+      "id": 43,
+      "name": "冥途归客",
+      "path": "backgrounds/梦魇.mp4",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/梦魇.mp4",
+      "size": 7019324
+    },
+    {
+      "id": 44,
+      "name": "审判之眼",
+      "path": "backgrounds/冥王猫女.mp4",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/冥王猫女.mp4",
+      "size": 6370894
+    },
+    {
+      "id": 45,
+      "name": "风暴曾途经此地",
+      "path": "backgrounds/风暴曾途经此地.mp4",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/风暴曾途经此地.mp4",
+      "size": 4005772
+    },
+    {
+      "id": 46,
+      "name": "暮色漫过了旧港",
+      "path": "backgrounds/暮色漫过了旧港.mp4",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/暮色漫过了旧港.mp4",
+      "size": 3881467
+    }
+  ],
+  "image_total_size": 24578599,
+  "video_total_size": 82953355
+}
