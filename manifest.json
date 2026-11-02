@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "images": [
     {
       "id": 2,
@@ -182,6 +182,41 @@
       "path": "backgrounds/沙暴侵袭.png",
       "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/沙暴侵袭.png",
       "size": 779919
+    },
+    {
+      "id": 40,
+      "name": "脉冲极客",
+      "path": "backgrounds/bg_pulse.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/bg_pulse.png",
+      "size": 3110667
+    },
+    {
+      "id": 41,
+      "name": "九课特工",
+      "path": "backgrounds/bg_jiuke.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/bg_jiuke.png",
+      "size": 4575409
+    },
+    {
+      "id": 42,
+      "name": "NOC S06",
+      "path": "backgrounds/bg_laizhan.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/bg_laizhan.png",
+      "size": 3914851
+    },
+    {
+      "id": 43,
+      "name": "急袭·近身战",
+      "path": "backgrounds/bg_jixi.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/bg_jixi.png",
+      "size": 3680115
+    },
+    {
+      "id": 44,
+      "name": "危情响应",
+      "path": "backgrounds/bg_jinshen.png",
+      "url": "https://cdn.jsdelivr.net/gh/incredibox-Para-DX/anqu-bg-resources@main/backgrounds/bg_jinshen.png",
+      "size": 812916
     }
   ],
   "videos": [
@@ -319,6 +354,6 @@
       "size": 3881467
     }
   ],
-  "image_total_size": 24578599,
+  "image_total_size": 123625912,
   "video_total_size": 82953355
 }
